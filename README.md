@@ -1,0 +1,1 @@
+# MonacoNerdFont-Regular
